@@ -12,6 +12,7 @@ Manipula erros de descompressão e exibe informações úteis para depuração.
 Requisitos  
 Python 3.x  
 Biblioteca zlib (incluída no Python padrão)  
+
 Uso  
 Certifique-se de ter o Python 3.x instalado em seu sistema.  
 
@@ -23,5 +24,5 @@ caminho para o seu arquivo de container e o diretório onde os arquivos descompr
 Execute o script usando o comando:  
 
 bash  
-Copiar código  
+
 python DESCOMPACTAR_PARTES.py  
